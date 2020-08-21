@@ -2,7 +2,7 @@
 
 A portfolio of game projects from both personal work and school
 
-## Untitled Fighting Game - Lead Developer, Designer and Artist
+## Untitled Fighting Game - Lead Developer/Designer/Artist
 
 A traditional 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game ideas
 
@@ -30,7 +30,7 @@ A top-down wave defense game played with a custom built slingshot controller.
 
 
 
-## Tower of Tears – Gameplay and Design Lead
+## Tower of Tears – Gameplay/Design Lead
 
 A third person puzzle adventure game about rotating platforms around a central tower
 
@@ -43,9 +43,9 @@ A third person puzzle adventure game about rotating platforms around a central t
 - Developed in Unity
 - https://github.com/chunloklo/tower-of-tears
 
-## Kronos Island – Gameplay and Design Lead
+## Kronos Island – Gameplay/Design Lead
 
-- A time-slowing FPS built in 48 hours for HackGT 2017 in a team of 2 developers
+A time-slowing FPS built in 48 hours for HackGT 2017 in a team of 2 developers
 
 ![Gameplay Screenshot](imgs/kronos-island-screenshot.png)
 
@@ -56,7 +56,7 @@ A third person puzzle adventure game about rotating platforms around a central t
 
 
 
-**Touhou Tribute GBA Game**
+## Touhou Tribute GBA Game - Developer/Designer
 
 A shoot’em up tribute to the Touhou series for the Gameboy Advanced 
 
