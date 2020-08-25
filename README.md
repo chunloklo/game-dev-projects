@@ -10,13 +10,14 @@ A traditional 2D fighting game intended as a self-learning opportunity and a pla
 
 - All programming, design, and art is done by me!
 - Ongoing work to integrate GGPO, a rollback network library specifically designed for fighting games
+- Developed in **Unreal Engine 4**
 - https://github.com/chunloklo/Unreal2DFighter
 
 
 
 ## Three Days To Launchpad - Lead Game Programmer, Designer
 
-A top-down wave defense game played with a custom built slingshot controller.
+A top-down wave defense game played with a custom built slingshot controller
 
 ![Game Screenshot](imgs/three-day-to-launchpad.png)
 
@@ -25,10 +26,6 @@ A top-down wave defense game played with a custom built slingshot controller.
 - Designed game mechanics with other team members
 - Programmed an Arduino to read controller sensor and mapped signals to in-game controls
 - https://github.com/chunloklo/three-days-to-launchpad
-
-
-
-
 
 ## Tower of Tears – Gameplay/Design Lead
 
@@ -39,8 +36,8 @@ A third person puzzle adventure game about rotating platforms around a central t
 - Developed with a team of 4 developers over 2 months for a game development course
 - Managed work for the team and integrated individual technical contributions
 - Implemented the core rotation system
-- Designed 2 different levels and a boss fight level for the game
-- Developed in Unity
+- Designed the core tower rotation mechanic, 2 different levels, and a final boss fight for the game
+- Developed in **Unity**
 - https://github.com/chunloklo/tower-of-tears
 
 ## Kronos Island – Gameplay/Design Lead
@@ -51,7 +48,7 @@ A time-slowing FPS built in 48 hours for HackGT 2017 in a team of 2 developers
 
 - Implemented the core time-slow and shooting mechanic
 - Designed 2 basic levels for the game
-- Developed in Unity
+- Developed in **Unity**
 - https://github.com/chunloklo/Kronos-Island
 
 
