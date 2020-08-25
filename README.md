@@ -8,9 +8,9 @@ A traditional 2D fighting game intended as a self-learning opportunity and a pla
 
 ![Game Screenshot](imgs/2d-fighter-screenshot.png)
 
-- All programming, design, and art is done by me!
+- All programming, design, and art is done by me
 - Ongoing work to integrate GGPO, a rollback network library specifically designed for fighting games
-- Developed in **Unreal Engine 4**
+- Developed in Unreal Engine 4
 - https://github.com/chunloklo/Unreal2DFighter
 
 
@@ -37,7 +37,7 @@ A third person puzzle adventure game about rotating platforms around a central t
 - Managed work for the team and integrated individual technical contributions
 - Implemented the core rotation system
 - Designed the core tower rotation mechanic, 2 different levels, and a final boss fight for the game
-- Developed in **Unity**
+- Developed in Unity
 - https://github.com/chunloklo/tower-of-tears
 
 ## Kronos Island – Gameplay/Design Lead
@@ -48,7 +48,7 @@ A time-slowing FPS built in 48 hours for HackGT 2017 in a team of 2 developers
 
 - Implemented the core time-slow and shooting mechanic
 - Designed 2 basic levels for the game
-- Developed in **Unity**
+- Developed in Unity
 - https://github.com/chunloklo/Kronos-Island
 
 
