@@ -26,6 +26,7 @@ A top-down wave defense game played with a custom built slingshot controller
 - Designed game mechanics with other team members
 - Programmed an Arduino to read controller sensor and mapped signals to in-game controls
 - https://github.com/chunloklo/three-days-to-launchpad
+- Video Demo: [link](https://www.youtube.com/watch?v=xDo9BJ58l6I)
 
 ## Tower of Tears – Gameplay/Design Lead
 
@@ -39,6 +40,7 @@ A third person puzzle adventure game about rotating platforms around a central t
 - Designed the core tower rotation mechanic, 2 different levels, and a final boss fight for the game
 - Developed in Unity
 - https://github.com/chunloklo/tower-of-tears
+- Vide Demo: [link](https://www.youtube.com/watch?v=SCLiuirV4eI)
 
 ## Kronos Island – Gameplay/Design Lead
 
@@ -50,6 +52,7 @@ A time-slowing FPS built in 48 hours for HackGT 2017 in a team of 2 developers
 - Designed 2 basic levels for the game
 - Developed in Unity
 - https://github.com/chunloklo/Kronos-Island
+- Video Demo: [link](https://www.youtube.com/watch?v=gEn0SKiARRY)
 
 
 
@@ -61,4 +64,5 @@ A shoot’em up tribute to the Touhou series for the Gameboy Advanced
 
 - Worked around the limitations of the GBA's limited memory and processing power
 - https://github.com/chunloklo/THou
+- Video Demo: [link](https://www.youtube.com/watch?v=3EM-_SlTtWo)
 
