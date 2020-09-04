@@ -2,7 +2,7 @@
 
 A portfolio of game projects from both personal work and school
 
-## Untitled Fighting Game - Lead Developer/Designer/Artist
+## Untitled Fighting Game - Developer/Designer/Artist
 
 A traditional 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game ideas
 
