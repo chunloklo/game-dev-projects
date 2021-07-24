@@ -4,13 +4,18 @@ A portfolio of game projects from both personal work and school
 
 ## Untitled Fighting Game - Developer/Designer/Artist
 
-A traditional 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game ideas
+A 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game ideas.
+
+This game is being developed in Unity with traditional 2D character sprites.
+
+### Previous version of the project in Unreal Engine 4
+
+Previously, this game was in development in Unreal Engine 4 with GGPO as its networking library. However, due to the limited networking features of the base GGPO library, the game is being rebuilt from the ground up in Unity using Hourai Networking and Backroll libraries from [Hourai Teahouse](https://github.com/HouraiTeahouse) as it has existing integration with Steam API. 
 
 ![Game Screenshot](imgs/2d-fighter-screenshot.png)
 
 - All programming, design, and art is done by me
-- Ongoing work to integrate GGPO, a rollback network library specifically designed for fighting games
-- Developed in Unreal Engine 4
+- Developed in Unity
 - https://github.com/chunloklo/Unreal2DFighter
 
 
