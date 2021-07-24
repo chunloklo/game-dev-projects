@@ -20,7 +20,7 @@ Previously, this game was in development in Unreal Engine 4 with GGPO as its net
 
 
 
-## Three Days To Launchpad - Lead Game Programmer, Designer
+## Three Days To Launchpad - Lead Game Programmer and Designer
 
 A top-down wave defense game played with a custom built slingshot controller
 
