@@ -2,23 +2,17 @@
 
 A portfolio of game projects from both personal work and school
 
-## Untitled Fighting Game - Developer/Designer/Artist
+## Untitled Fighting Game - Solo Developer
 
-A 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game ideas.
+A 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game design ideas.
 
-This game is being developed in Unity with traditional 2D character sprites.
+This game is being developed in Unity with rollback netcode and Steam integration.
 
-### Previous version of the project in Unreal Engine 4
+![Game Screenshot](imgs/2d-fighter-playtest-screenshot.png)
 
-Previously, this game was in development in Unreal Engine 4 with GGPO as its networking library. However, due to the limited networking features of the base GGPO library, the game is being rebuilt from the ground up in Unity using Hourai Networking and Backroll libraries from [Hourai Teahouse](https://github.com/HouraiTeahouse) as it has existing integration with Steam API. 
-
-![Game Screenshot](imgs/2d-fighter-screenshot.png)
-
-- All programming, design, and art is done by me
-- Developed in Unity
-- https://github.com/chunloklo/Unreal2DFighter
-
-
+- Responsible for all programming, art, and design
+- Developed in Unity and C#
+- Playtest Demo: [link](https://www.youtube.com/watch?v=PNFkTmTP0ak)
 
 ## Three Days To Launchpad - Lead Game Programmer and Designer
 
@@ -45,7 +39,7 @@ A third person puzzle adventure game about rotating platforms around a central t
 - Designed the core tower rotation mechanic, 2 different levels, and a final boss fight for the game
 - Developed in Unity
 - https://github.com/chunloklo/tower-of-tears
-- Vide Demo: [link](https://www.youtube.com/watch?v=SCLiuirV4eI)
+- Video Demo: [link](https://www.youtube.com/watch?v=SCLiuirV4eI)
 
 ## Kronos Island – Gameplay/Design Lead
 
