@@ -14,7 +14,7 @@ This game is being developed in Unity with rollback netcode
 - Developed in Unity and C#
 - Playtest Video: [link](https://www.youtube.com/watch?v=PNFkTmTP0ak)
 
-## Three Days To Launchpad - Lead Game Programmer and Designer
+## Three Days To Launchpad - Lead Programmer and Designer
 
 A top-down wave defense game played with a custom built slingshot controller
 
