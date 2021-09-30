@@ -55,7 +55,7 @@ A time-slowing FPS built in 48 hours for HackGT 2017 in a team of 2 developers
 
 
 
-## Touhou Tribute GBA Game - Developer/Designer
+## Touhou Tribute GBA Game - Solo Developer
 
 A shoot’em up tribute to the Touhou series for the GameBoy Advanced 
 
