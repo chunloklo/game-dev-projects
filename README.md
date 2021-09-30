@@ -6,7 +6,7 @@ A portfolio of game projects from both personal work and school
 
 A 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game design ideas.
 
-This game is being developed in Unity with rollback netcode that is built on top of the Steam Networking library
+This game is being developed in Unity with rollback netcode
 
 ![Game Screenshot](imgs/2d-fighter-playtest-screenshot.png)
 
