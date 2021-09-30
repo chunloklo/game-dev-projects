@@ -12,7 +12,7 @@ This game is being developed in Unity with rollback netcode and Steam integratio
 
 - Responsible for all programming, art, and design
 - Developed in Unity and C#
-- Playtest Demo: [link](https://www.youtube.com/watch?v=PNFkTmTP0ak)
+- Playtest Video: [link](https://www.youtube.com/watch?v=PNFkTmTP0ak)
 
 ## Three Days To Launchpad - Lead Game Programmer and Designer
 
