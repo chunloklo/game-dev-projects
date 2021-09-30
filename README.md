@@ -4,7 +4,7 @@ A portfolio of game projects from both personal work and school
 
 ## Untitled Fighting Game - Solo Developer
 
-A 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game design ideas.
+A 2D fighting game intended as a self-learning opportunity and a platform to explore fighting game design ideas
 
 This game is being developed in Unity with rollback netcode
 
