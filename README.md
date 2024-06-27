@@ -18,7 +18,10 @@ This game is being developed in Unity with rollback netcode
 
 A strategy card gaame where you guide and grow your summoned hero to victory by influencing the quest board that they see every day
 
+![Game Screenshot](imgs/ReincarnatedHeroTrainer.png)
+
 - GMTK Game Jam 2023 (48 hours)
+- Game Download: [link](https://boxedcube.itch.io/reincarnated-hero-trainer)
 - Developed in Unity
 
 
