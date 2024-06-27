@@ -14,6 +14,14 @@ This game is being developed in Unity with rollback netcode
 - Developed in Unity and C#
 - Playtest Video: [link](https://www.youtube.com/watch?v=PNFkTmTP0ak)
 
+## Reincarnated Hero Trainer
+
+A strategy card gaame where you guide and grow your summoned hero to victory by influencing the quest board that they see every day
+
+- GMTK Game Jam 2023 (48 hours)
+- Developed in Unity
+
+
 ## Three Days To Launchpad - Lead Programmer and Designer
 
 A top-down wave defense game played with a custom built slingshot controller
